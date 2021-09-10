@@ -10,7 +10,7 @@ this has been deployed to Github. To get this project up and running, you can fo
 This project has been deployed to GitHub Pages. To get this project up and running, you can follow the deployment link. Or, download the sources files to use this as a template.
 
 * [GitHub Repository](https://github.com/WillLuciano/randomator-Passonator.git)
-* [Deployed GitHub IO](https://willluciano.github.io/randomator-passonator/)
+* [Deployed GitHub IO](https://willluciano.github.io/randomator-Passonator/)
 
 ![Randomator-Passonator Demo](03-javascript-homework-demo.png)
 
