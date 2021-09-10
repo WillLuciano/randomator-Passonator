@@ -43,7 +43,7 @@ function generatePassword() {
         var confirmUpperCase = confirm("Click OK to confirm if you would like to include uppercase characters");   
     } 
 
-      // Assign an action to the password parameters NEED TO FIX THIS
+      // password parameters 
       var passwordCharacters = []
       
     if (confirmSpecialCharacter) {
